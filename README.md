@@ -1,5 +1,5 @@
 # Socket-Programming
-Socket Programming Project as a part of second semester
+Socket Programming Project as a part of fourth semester project
 
 
 Multi Chat
